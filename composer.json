@@ -1,0 +1,15 @@
+{
+    "name": "kayzore/php-framework-example",
+    "description": "Example of project with my PHPFramework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jerome Lelievre",
+            "email": "jerome.lelievre2@gmail.com"
+        }
+    ],
+    "require": {
+        "kayzore/phpframework": "^0.2.0"
+    }
+}
