@@ -10,6 +10,6 @@
         }
     ],
     "require": {
-        "kayzore/phpframework": "^0.3.2"
+        "kayzore/phpframework": ">0.3.2"
     }
 }
